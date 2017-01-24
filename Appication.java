@@ -6,6 +6,7 @@ public class Appication {
     public static void main(String args[]) {
 
         //1. При помощи цикла for вывести на экран нечетные числа от 1 до 99.
+        //
         First.print();
 
         // 2. Дано число n. При помощи цикла for посчитать факториал n!
